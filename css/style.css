@@ -118,3 +118,13 @@ h1 {
   .addBtn:hover {
     background-color: #bbb;
   }
+
+  .darkmode {
+    text-align: left;
+  }
+  
+  .darkmode a {
+    text-decoration: wavy;
+    margin-left: 10px;
+    color: #910e0e
+  }
