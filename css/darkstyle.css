@@ -18,18 +18,15 @@ h1 {
     text-align: center;
 }
 
-/* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
   }
   
-  /* Remove margins and padding from the list */
   ul {
     margin: 0;
     padding: 0;
   }
   
-  /* Style the list items */
   ul li {
     cursor: pointer;
     position: relative;
